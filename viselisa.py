@@ -1,5 +1,5 @@
 import random
-
+print("Checking test work with GIT")
 def hangman():
     print("\n гр. RI1-02 X. Asad \n")
     print("Привет! Добро пожаловать в игру ВИСЕЛИЦА")
